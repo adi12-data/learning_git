@@ -1,3 +1,13 @@
 Aditya Khandelwal
 Git and github tutorial
 
+New version for this file
+vi command for getting the file in this terminal to edit and we also have a esc -> :wq --> enter command to save the file.
+
+After that we cann chech the git status and we will get there is an update in this files also we can add the changes via 
+git add . 
+or
+git add file name 
+then 
+git commit -m "comment you want to write".
+then git status to check the status
